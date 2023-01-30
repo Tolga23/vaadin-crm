@@ -1,0 +1,11 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "C:\\Java\\GIT\\vaadin-crm\\vaadin-crm",
+  "generatedFolder": "C:\\Java\\GIT\\vaadin-crm\\vaadin-crm\\target\\frontend",
+  "frontendFolder": "C:\\Java\\GIT\\vaadin-crm\\vaadin-crm\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "node.version": "v14.21.1",
+  "node.download.root": "https://nodejs.org/dist/"
+}
