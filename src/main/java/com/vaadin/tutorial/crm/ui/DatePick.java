@@ -7,7 +7,7 @@ import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.router.Route;
 
-@Route("date")
+@Route(value = "date",layout = MainLayout.class)
 public class DatePick extends VerticalLayout {
     public DatePick() {
         Button button = new Button("Click me");
